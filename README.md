@@ -17,9 +17,9 @@ I am a Data Scientist and aspiring Full-Stack Developer with a strong interest i
 </p>
 
 - ✨ Curious learner & problem solver  
-- 🌱 Currently deepening my skills in **Machine Learning, JavaScript, and React**
+- 🌱 Currently deepening my skills in **Agentic AI and Adaptive I**
 - 📊 Passionate about **data analysis, predictive modeling, and visualization**
-- 💻 Exploring **full-stack development** alongside data science
+- 💻 Exploring **full-stack AI development** alongside data science
 - ❤ Interested in real-world projects and open-source collaboration
 
 <!--End Intro-->
@@ -36,15 +36,8 @@ I am a Data Scientist and aspiring Full-Stack Developer with a strong interest i
 
 <p align="left">
 <strong>Languages & Tools:</strong><br/>
-Python • SQL • Pandas • NumPy • Scikit-Learn • Matplotlib • JavaScript • HTML • CSS • React • Git • GitHub
+Python • SQL • Pandas • NumPy • Scikit-Learn • Matplotlib • JavaScript • HTML • CSS • React • Git • GitHub • Azure • AWS
 </p>
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Machine Learning (model evaluation, feature engineering, deployment basics)</li>
-  <li>JavaScript & React for interactive web applications</li>
-  <li>Applying ML models in real-world projects</li>
-</ul>
 
 <br />
 
