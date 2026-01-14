@@ -17,7 +17,7 @@ I am a Data Scientist and aspiring Full-Stack Developer with a strong interest i
 </p>
 
 - ✨ Curious learner & problem solver  
-- 🌱 Currently deepening my skills in **Agentic AI and Adaptive I**
+- 🌱 Currently deepening my skills in **Agentic and Adaptive AI**
 - 📊 Passionate about **data analysis, predictive modeling, and visualization**
 - 💻 Exploring **full-stack AI development** alongside data science
 - ❤ Interested in real-world projects and open-source collaboration
@@ -34,12 +34,21 @@ I am a Data Scientist and aspiring Full-Stack Developer with a strong interest i
 <!--Languages and Tools Section-->       
 <h2 align="center">Tech Stack & Learning Focus</h2> 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br /><br />
+
 <p align="left">
 <strong>Languages & Tools:</strong><br/>
 Python • SQL • Pandas • NumPy • Scikit-Learn • Matplotlib • JavaScript • HTML • CSS • React • Git • GitHub • Azure • AWS
 </p>
 
-<br />
+<br /><br />
+
+---
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
@@ -100,16 +109,16 @@ Python • SQL • Pandas • NumPy • Scikit-Learn • Matplotlib • JavaScri
 
 <div align="center">
 
-<a href="machariaalex456@gmail.com">
-<img src="./gmail.png" width="45" />
+<a href="mailto:machariaalex456@gmail.com">
+  <img src="./gmail.png" width="45" alt="Email" />
 </a>
 
-<a href="https://www.linkedin.com/in/alex-ndegwa//">
-<img src="./linkedin.png" width="45" />
+<a href="https://www.linkedin.com/in/alex-ndegwa/">
+  <img src="./linkedin.png" width="45" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/machariaalex">
-<img src="./github.png" width="45" />
+  <img src="./github.png" width="45" alt="GitHub" />
 </a>
 
 </div>
@@ -120,4 +129,3 @@ Python • SQL • Pandas • NumPy • Scikit-Learn • Matplotlib • JavaScri
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
